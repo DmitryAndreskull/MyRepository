@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-data 'resources_rc.py;.' file3.py

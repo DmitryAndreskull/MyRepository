@@ -1,0 +1,7 @@
+   <RCC>
+       <qresource prefix="/files">
+           <file>background.jpg</file>
+           <file>lang_eng.jpg</file>
+           <file>lang_rus.jpg</file>
+       </qresource>
+   </RCC>
